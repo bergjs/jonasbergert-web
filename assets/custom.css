@@ -1,0 +1,11 @@
+.home p, .home h2, .home h3{
+  text-align: center;
+}
+
+.home {
+  min-height: 70vh;
+}
+
+figcaption {
+  text-align: center;
+}
